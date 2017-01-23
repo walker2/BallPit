@@ -1,6 +1,6 @@
 ## BallPit
 **BallPit** is a small app based on [Falcon framework](https://github.com/walker2/Falcon).
-Spawn balls, move them and watch as they clip in to each other.
+Spawn balls, move them and watch as they clip into each other.
 
 ## Controls
 * Left Click - spawn balls
