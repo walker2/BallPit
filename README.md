@@ -8,7 +8,7 @@ Spawn balls, move them and watch as they clip into each other.
 * 1 number key - sets another renderer
 * Arrows - sets gravity in arrow direction
 
-## Build excecutable for Linux
+## Build executable for Linux
 ### Clone repo from GitHub
 ```
 $ git clone https://github.com/walker2/BallPit
